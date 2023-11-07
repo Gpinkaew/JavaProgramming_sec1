@@ -1,0 +1,5 @@
+Student_id : 2313110674
+student Name : Kawin Pinkaew
+Major : IT
+Level : 1
+Faculty : Information Technology
