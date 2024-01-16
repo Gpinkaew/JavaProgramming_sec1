@@ -1,4 +1,4 @@
 Id:2313110674
 Name-Surname:Kawin pinkaew
-Date: Jan-09-2024
-Topic: Class and Object
+Date: Jan-16-2024
+Topic: Encapsulation Concept
